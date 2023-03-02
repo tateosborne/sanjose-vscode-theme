@@ -554,7 +554,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ff6961",
         "fontStyle": "italic"
       }
     },
@@ -623,7 +623,7 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#218b82",
+        "foreground": "#a0b392",
         "fontStyle": "bold"
       }
     },
@@ -631,7 +631,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#218b82",
+        "foreground": "#a0b392",
         "fontStyle": "bold"
       }
     },
@@ -639,7 +639,7 @@
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#218b82",
+        "foreground": "#a0b392",
         "fontStyle": "bold"
       }
     },
@@ -651,7 +651,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#218b82",
+        "foreground": "#a0b392",
         "fontStyle": "bold"
       }
     },
