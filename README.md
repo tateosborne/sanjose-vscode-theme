@@ -1,6 +1,6 @@
-# sanjose README
+# San Jose
 
-## Created using https://themes.vscode.one
+Created using https://themes.vscode.one
 
 I found a theme on Xcode called San Jose (made by Pat Murray), and I loved it. I wanted to use the colour palette
 on the application that I use for most of my development: VS Code.
@@ -9,6 +9,7 @@ I made some variations as Xcode colour coding isn't identical to VS Code, but I 
 
 If anyone comes across it, thanks Pat Murray, not me!
 
-## For more information
+#### Link to Pat Murray's repository for the Xcode theme
+https://github.com/PatMurrayDEV/San-Jose
 
 **Enjoy!**
