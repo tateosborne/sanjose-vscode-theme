@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "San Jose",
+        "label": "san-jose",
         "uiTheme": "vs-dark",
         "path": "./themes/San Jose-color-theme.json"
       }
