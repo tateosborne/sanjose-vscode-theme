@@ -1,6 +1,6 @@
 {
   "name": "sanjose",
-  "displayName": "Sam Jose",
+  "displayName": "San Jose",
   "description": "Pat Murray's Xcode theme, adapted for VS Code",
   "version": "0.0.1",
   "repository": {
@@ -10,6 +10,7 @@
   "engines": {
     "vscode": "^1.76.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
