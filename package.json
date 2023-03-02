@@ -3,6 +3,10 @@
   "displayName": "Sam Jose",
   "description": "Pat Murray's Xcode theme, adapted for VS Code",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tateosborne/sanjose-vscode-theme"
+},
   "engines": {
     "vscode": "^1.76.0"
   },
