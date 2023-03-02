@@ -1,8 +1,11 @@
 {
   "name": "sanjose",
   "displayName": "San Jose",
-  "description": "Pat Murray's Xcode theme, adapted for VS Code",
+  "description": "Pat Murray's Xcode theme, adapted for VS Code.\nCreated by Tate P. Osborne",
   "version": "0.0.1",
+  "contributors": [
+    "Tate P. Osborne"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tateosborne/sanjose-vscode-theme"
