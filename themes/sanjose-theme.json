@@ -554,7 +554,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#ff6961",
+        "foreground": "#ed84b2",
         "fontStyle": "italic"
       }
     },
@@ -2008,14 +2008,14 @@
     "editor.foldBackground": "#394045",
     "editorOverviewRuler.background": "#969a9c00",
     "editorOverviewRuler.border": "#7f7f7f00",
-    "editorError.foreground": "#842325",
-    "editorError.background": "#823c4170",
+    "editorError.foreground": "#ff4d4d",
+    "editorError.background": "#ffffff00",
     "editorError.border": "#ffffff00",
-    "editorWarning.foreground": "#947629",
-    "editorWarning.background": "#7c651b70",
+    "editorWarning.foreground": "#ffd384",
+    "editorWarning.background": "#ffffff00",
     "editorWarning.border": "#ffffff00",
     "editorInfo.foreground": "#3c6496",
-    "editorInfo.background": "#4490BF00",
+    "editorInfo.background": "#ffffff00",
     "editorInfo.border": "#4490BF00",
     "editorGutter.background": "#2b3135",
     "editorGutter.modifiedBackground": "#0a5fff",
