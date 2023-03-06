@@ -60,7 +60,7 @@
       "name": "python parameter",
       "scope": "variable.parameter.function.language.python",
       "settings": {
-        "foreground": "#ffdfd3"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -123,7 +123,7 @@
       "name": "Text",
       "scope": "variable.parameter.function",
       "settings": {
-        "foreground": "#ffdfd3"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -179,7 +179,7 @@
       "name": "js/ts punctuation separator key-value",
       "scope": "punctuation.separator.key-value",
       "settings": {
-        "foreground": "#bdbdbd"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -554,7 +554,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#ed84b2",
+        "foreground": "#fa8075",
         "fontStyle": "italic"
       }
     },
@@ -623,7 +623,7 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#a0b392",
+        "foreground": "#e7a29c",
         "fontStyle": "bold"
       }
     },
@@ -631,7 +631,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#a0b392",
+        "foreground": "#e7a29c",
         "fontStyle": "bold"
       }
     },
@@ -639,7 +639,7 @@
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#a0b392",
+        "foreground": "#ed84b2",
         "fontStyle": "bold"
       }
     },
@@ -651,7 +651,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#a0b392",
+        "foreground": "#ed84b2",
         "fontStyle": "bold"
       }
     },
@@ -745,14 +745,14 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#5cd9fe"
       }
     },
     {
       "name": "Support type",
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#bdbdbd"
+        "foreground": "#82c9a0"
       }
     },
     {
@@ -824,14 +824,14 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#83aec8"
+        "foreground": "#ffd384"
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ff6e60"
+        "foreground": "#83aec8"
       }
     },
     {
@@ -846,15 +846,14 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
-        "foreground": "#988ebd"
+        "foreground": "#83aec8"
       }
     },
     {
       "name": "Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#ffd384"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -875,7 +874,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#83aec8"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1120,6 +1119,15 @@
       "scope": "text.html.laravel-blade source.php.embedded.line.html support.constant.laravel-blade",
       "settings": {
         "foreground": "#ffd384"
+      }
+    },
+    {
+      "name": "html/php text",
+      "scope": [
+        "text.html",
+        "text.html.php"],
+      "settings": {
+        "foreground": "ffffff"
       }
     },
     {
@@ -1537,7 +1545,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#83aec8"
       }
     },
     {
@@ -1872,6 +1880,7 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
+        "foreground": "#bababa",
         "fontStyle": "regular"
       }
     },
@@ -2036,8 +2045,8 @@
     "badge.foreground": "#ffffff",
     "terminal.foreground": "#ffffff",
     "terminal.selectionBackground": "#ffffff1e",
-    "terminalCursor.background": "#ffffff",
-    "terminalCursor.foreground": "#272b2e",
+    "terminalCursor.background": "#272b2e",
+    "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#80808059",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#2472c8",
