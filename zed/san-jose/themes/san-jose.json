@@ -1,0 +1,161 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "San Jose",
+  "author": "tateosborne",
+  "themes": [
+    {
+      "name": "San Jose",
+      "appearance": "dark",
+      "style": {
+        "background.appearance": "blurred",
+        "background": "#2B3135D9",
+        "editor.background": "#00000000",
+        "editor.gutter.background": "#00000000",
+        "panel.background": "#00000000",
+        "terminal.background": "#00000000",
+        "tab_bar.background": "#00000000",
+
+        "text": "#FFFFFF",
+        "text.muted": "#807F7F", 
+        "text.accent": "#7DC09A",
+
+        "editor.active_line_background": "#39404560",
+        "editor.line_number": "#7F7F7F",
+        "editor.active_line_number": "#FFFFFF",
+
+        "tab.active_background": "#2B313580",
+        "tab.inactive_background": "#00000000",
+        "tab.active_foreground": "#FFFFFF",
+        "tab.inactive_foreground": "#807F7F",
+        
+        "border": "#1C4C56",
+        "border.variant": "#1C4C56",
+        "border.focused": "#7DC09A",
+
+        "status_bar.background": "#2B3135D9",
+        "title_bar.background": "#2B3135D9",
+        "toolbar.background": "#2B3135D9",
+
+        "element.active": "#1C4C56",
+        "element.selected": "#1C4C56",
+        "element.hover": "#1C4C5680",
+
+        "players": [
+          {
+            "cursor": "#FFFFFF",
+            "background": "#FFFFFF",
+            "selection": "#1C4C56"
+          }
+        ],
+
+        "syntax": {
+          "comment": {
+            "color": "#BDBDBD",
+            "font_style": "italic"
+          },
+          "comment.doc": {
+            "color": "#BDBDBD",
+            "font_style": "italic"
+          },
+          
+          "keyword": {
+            "color": "#FDD285",
+            "font_weight": 700
+          },
+          "keyword.control": {
+            "color": "#FDD285",
+            "font_weight": 700
+          },
+
+          "function": {
+            "color": "#7DC09A", 
+            "font_style": "normal"
+          },
+          "function.method": {
+            "color": "#7DC09A" 
+          },
+          "function.builtin": {
+            "color": "#85B3CC" 
+          },
+          "support.function": {
+            "color": "#85B3CC" 
+          },
+
+          "type": {
+            "color": "#7DC09A",
+            "font_weight": 700
+          },
+          "type.builtin": {
+            "color": "#85B3CC", 
+            "font_weight": 700
+          },
+          "constructor": {
+             "color": "#7DC09A"
+          },
+
+          "variable": {
+            "color": "#FFFFFF"
+          },
+          "variable.special": {
+             "color": "#FDD285"
+          },
+          "variable.builtin": {
+            "color": "#85B3CC"
+          },
+          "property": {
+            "color": "#7DC09A"
+          },
+          "attribute": {
+            "color": "#C1845D"
+          },
+
+          "string": {
+            "color": "#F69767"
+          },
+          "string.escape": {
+            "color": "#CD9670"
+          },
+          "string.regex": {
+            "color": "#CD9670"
+          },
+          
+          "number": {
+            "color": "#A096C8"
+          },
+          "boolean": {
+            "color": "#FDD285",
+            "font_weight": 700
+          },
+          "constant": {
+            "color": "#7DC09A"
+          },
+
+          "operator": {
+            "color": "#FFFFFF"
+          },
+          "punctuation": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.bracket": {
+            "color": "#FFFFFF"
+          },
+          "punctuation.delimiter": {
+             "color": "#FFFFFF"
+          },
+          
+          "tag": {
+            "color": "#FDD285"
+          },
+          "link_text": {
+             "color": "#3DB3CE",
+             "font_style": "italic"
+          },
+          "link_uri": {
+             "color": "#3DB3CE",
+             "font_style": "underline"
+          }
+        }
+      }
+    }
+  ]
+}

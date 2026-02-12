@@ -1,0 +1,8 @@
+id = "san-jose"
+name = "San Jose"
+version = "0.0.1"
+schema_version = 1
+authors = ["Tate Osborne"]
+description = "San Jose theme ported from Pat Murray's XCode theme."
+repository = "https://github.com/tateosborne/san-jose"
+themes = ["themes/san_jose.json"]
