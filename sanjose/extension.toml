@@ -5,4 +5,4 @@ schema_version = 1
 authors = ["Tate Osborne"]
 description = "San Jose theme ported from Pat Murray's XCode theme."
 repository = "https://github.com/tateosborne/sanjose"
-themes = ["themes/san_jose.json"]
+themes = ["themes/sanjose.json"]
