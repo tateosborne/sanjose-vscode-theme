@@ -1,15 +1,11 @@
-# San Jose
+### San Jose
+---
+![icon](https://raw.githubusercontent.com/tateosborne/sanjose/refs/heads/main/icon.png?size=100)
 
-Created using https://themes.vscode.one
+I found this [theme](https://github.com/PatMurrayDEV/San-Jose) by Pat Murray whilst using XCode for development and loved it.
 
-I found a theme on Xcode called San Jose (made by Pat Murray), and I loved it. I wanted to use the colour palette
-on the application that I use for most of my development: VS Code.
+I've refined it for Zed so I can use it in the editor I most use.
 
-I made some variations as Xcode colour coding isn't identical to VS Code, but I think it turned out great.
+It's a close match, and it's great.
 
-If anyone comes across it, thanks Pat Murray, not me!
-
-#### Link to Pat Murray's repository for the Xcode theme
-https://github.com/PatMurrayDEV/San-Jose
-
-**Enjoy!**
+If anyone comes across this, thank Pat Murray, not me :')
